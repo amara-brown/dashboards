@@ -15,10 +15,6 @@ penguins <- penguins %>%
   clean_names()
 ```
 
-Instructions: Make a dashboard with two rows. Row 1 should contain two graphs showing any penguins data you'd like. Row 2 should contain a table (use kintr::kable and select if you'd like to narrow down the columns). Then customize your dashboard by adding colors, labels, interactivity, etc.
-
-Optional: add text cards, value box, tabs, pages, etc.
-
 ## Row 1
 
 ```{r}
